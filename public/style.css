@@ -1,0 +1,65 @@
+body{
+    margin-left: 20px;
+    
+}
+.main_heading{
+    color: green;
+}
+.msg{
+    color: white;
+    background-color: dodgerblue;
+    padding: 5px 15px ;
+    border-radius: 16px ;
+}
+.chat{
+    border-radius: 16px;
+    background-color: aliceblue;
+    padding: 20px;
+    display: inline-block;
+    
+}
+#chat_heading{
+    color: green;
+    box-shadow: 0px 4px 8px yellow;
+    width: 20vw;
+    border: 1px solid black;
+}
+.new_chat_form{
+  height: 50vh;
+  width: 50vw;
+  border-radius: 16px;
+  background-color: pink;
+ border: 1px solid black;
+ 
+}
+.form_content{
+  
+  
+    margin-top: 70px;
+    margin-left: 70px;
+    
+}
+#txt{
+    height: 20px;
+    width: 200px;
+}
+#msg{
+    height: 20px;
+    width: 200px;
+}
+
+#txt1{
+    height: 20px;
+    width: 200px;
+}
+.butt{
+   padding: 7px 7px 7px 7px;
+   color: white;
+   background-color: maroon;
+   font-weight: bold;
+   border-style: none;
+}
+.butt:hover{
+background-color: aliceblue;
+color: blue;
+}
